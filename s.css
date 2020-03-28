@@ -1,0 +1,45 @@
+input[type=text]
+{
+    text-decoration: tomato;
+}
+.order1
+{
+    padding-top: 200px;      
+      padding-bottom: 500px;    
+      text-align: center;    
+      color: #f8f8f8;     
+      background-image: url(imgs/blood.jpg) ; 
+      background-size: cover;
+}
+.order{
+  padding-top: 75px;      
+      padding-bottom: 50px;    
+      text-align: center;    
+      color: #f8f8f8;     
+      background-image: url(imgs/blood.jpg) ; 
+      background-size: cover;
+      
+            }
+ .d{
+   margin-right:10px;
+            }
+ 
+            
+/* Add styles to the form container */
+/*.dcontainer {
+  position:center;
+  right: 0;
+  margin: 20px;
+  max-width: 700px;
+  padding-top: 30px;
+ background-color: rgba(0,0,0,0.7);
+}*/
+.panel
+{
+     background-color: rgba(0,0,0,0.2);
+     max-width: 500px;
+}
+.x{
+    margin-left: 300px;
+    margin-right: 300px;
+}

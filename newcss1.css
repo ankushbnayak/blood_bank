@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 Jul, 2019, 12:37:58 PM
+    Author     : Ankush Nayak
+*/
+.panel-body
+{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.i
+{
+     
+      text-align: center;    
+      color: #f8f8f8;     
+      background: url(imgs/blood.jpg) no-repeat center center; 
+      background-size: cover;
+}
+#Image{
+      padding-top: 75px;      
+      padding-bottom: 50px;      
+      text-align: center;    
+      color: #f8f8f8;     
+      background: url(imgs/blood.jpg) no-repeat center center; 
+      background-size: cover;
+      
+      
+}
+#Donate{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 360px;
+    
+}
+
+footer
+{     
+    
+      padding: 10px 0; 
+      background-color: #101010;
+      color:#9d9d9d; 
+      bottom:0;
+      height: 60px;
+      width: 100%; 
+}
+.a{
+    font-size: 30px;
+    align-content:flex-start;
+}
+ form{
+            display: inline-block ;
+            width: 30%;
+         }
+         
+ 
